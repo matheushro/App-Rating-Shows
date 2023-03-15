@@ -1,7 +1,10 @@
 # Single-Page-App-Teste-Grupo-Ergon
 Teste para vaga Analista de Desenvolvimento de Software I
 
-# Descrição
+#Descrição
+Sistema de postagens para recomendações de shows (filmes ou séries), onde o usuário pode realizar postagens, ver o feed de postagens de outros usuários, interagir ou seguir uma postagem.
+
+# Tecnologias utilizadas
 Projeto desenvolvido como single page application rest api, utilizando `vue3, node.js e mysql`.
 
 # Instalação
