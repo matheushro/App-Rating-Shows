@@ -1,2 +1,12 @@
 # Single-Page-App-Teste-Grupo-Ergon
 Teste para vaga Analista de Desenvolvimento de Software I
+
+# Descrição
+Projeto desenvolvido como single page application rest api, utilizando `vue3, node.js e mysql`.
+
+# Instalação
+
+* web-app: 
+	Utilizar comando `npm install` dentro da pasta web-app e utilizar comando ` npm run serve ` para subir o web-app
+    
+* rest-api: Utilizar comando `npm install` dentro da pasta rest-api e utilizar comando ` node index ` ou ` nodemon ` para subir a rest-api
