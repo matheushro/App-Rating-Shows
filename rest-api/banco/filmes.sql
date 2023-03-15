@@ -5,8 +5,7 @@ use db_filmes;
 CREATE TABLE IF NOT EXISTS users(
 	id_user int primary key auto_increment,
     user_user varchar(150) NOT NULL, 
-    password_user varchar(150) NOT NULL, 
-    email_user varchar(150) NOT NULL
+    password_user varchar(150) NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS shows(
