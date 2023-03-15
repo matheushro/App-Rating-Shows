@@ -13,7 +13,7 @@ Projeto desenvolvido como single page application rest api, utilizando `vue3, no
     
 * rest-api: Utilizar comando `npm install` dentro da pasta rest-api e utilizar comando ` node index ` ou ` nodemon ` para subir a rest-api
 
-* banco de dados: Executar script dentro de `rest-api/banco/filmes.sql` e em dbConexao.js alterar dados de `host, user e password` caso necessário para conexão com banco de dados.
+* banco de dados: Executar script dentro de `rest-api/banco/filmes.sql` para criar banco mysql e em dbConexao.js alterar dados de `host, user e password` caso necessário para conexão com banco de dados.
 
 # Acesso
 
