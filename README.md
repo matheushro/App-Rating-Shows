@@ -17,4 +17,4 @@ Projeto desenvolvido como single page application rest api, utilizando `vue3, no
 
 # Acesso
 
-* Para acesar o sistema, após executar os comandos utilize `http://localhost:8080/`
+* Para acesar o sistema, após executar os comandos de instalação, utilize `http://localhost:8080/`
